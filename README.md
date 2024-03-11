@@ -4,7 +4,9 @@
 ## Project Overview:
 This project implements a subscription newsletter component using Next.js, TypeScript, and Mailchimp. It provides a user-friendly form for newsletter sign-ups, with real-time validation and seamless integration with the Mailchimp API.
 
-You can find the link to the article on how to build this project below.
+## Article Link:
+[Setup a Newsletter with Next.js, TypeScript and Mailchimp](https://www.agirlcodes.dev/setup-newsletter-mailchimp-nextjs)
+
 
 ## Technologies Used:
 - Next.js
@@ -42,8 +44,6 @@ To configure the project, you'll need to set the following environment variables
 ## External Dependencies:
 - Mailchimp API
 
-## Article Link:
-[Setup a Newsletter with Next.js, TypeScript and Mailchimp](https://www.agirlcodes.dev/setup-newsletter-mailchimp-nextjs)
 
 
 ## Contributors:
