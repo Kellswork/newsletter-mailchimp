@@ -51,4 +51,4 @@ To configure the project, you'll need to set the following environment variables
 
 
 ## Troubleshooting and Support:
-For issues or support, please [open an issue](https://github.com/yourusername/yourproject/issues) or contact me at [your@email.com].
+For issues or support, please [open an issue](https://github.com/yourusername/yourproject/issues) or contact me at [kells@agirlcodes.dev].
